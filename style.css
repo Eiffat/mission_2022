@@ -1,0 +1,75 @@
+.flexible{
+    display: flex;
+    margin-bottom: 5%;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 80%;
+    border-radius: 20px;
+}
+.one-third-width{
+    width: 35%;
+    border-radius: 20px;
+    margin: 2%;
+}
+.one-third-width img{
+    width: 50%;
+}
+.section-padding{
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.colored-border{
+   border-left: 5px solid salmon; 
+}
+.colored-text{
+    color: orangered;
+}
+.large-font{
+    font-size: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,red);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: palegoldenrod;
+}
+.word-padding{
+padding-left: 5%;
+padding-right: 5%;
+}
+#light-blue{
+    background-color: #e6f2ff;
+}
+#light-pink{
+background-color: #ffe6ff;
+}
+#light-green{
+background-color: paleturquoise;
+}
+p{
+    font-size: large;
+}
+.center-align{
+    text-align: center;
+}
+.campus{
+    background-image: url("images/shape-1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.other-school{
+    background-image: url("images/shape-1.png");
+    background-repeat: no-repeat;
+    background-position:right;
+}
+footer{
+    text-align: center;
+    background-color: rgb(12, 12, 36);
+}
